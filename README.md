@@ -1,2 +1,2 @@
-# InstagramCone
+# InstagramClone
 # InstagramClone
